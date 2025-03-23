@@ -1,6 +1,7 @@
 # Compiled files
 bin/
 obj/
+.vs/
 
 # User-specific files
 .vscode/

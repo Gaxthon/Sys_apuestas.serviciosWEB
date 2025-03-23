@@ -28,7 +28,7 @@ namespace sysApuestas__API.Controllers
             return await _context.configuraciones.ToListAsync();
         }
 
-        // GET: api/Configuracion/5
+        // GET: api/Configuracion/5  OBTIENE UNA CONFIGURACION SEGUN EL ID
         [HttpGet("{id}")]
         public async Task<ActionResult<Configuracion>> GetConfiguracion(int id)
         {

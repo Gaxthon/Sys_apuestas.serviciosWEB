@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GENGA\\Desktop\\proyecto sistemas de apuestas\\sysApuestas__API\\",
+  "WorkspaceRootPath": "D:\\Sys_apuestas.serviciosWEB\\proyecto sistemas de apuestas\\sysApuestas__API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A340695A-D926-4761-BB1C-AE34934C71B6}|sysApuestas__API.csproj|c:\\users\\genga\\desktop\\proyecto sistemas de apuestas\\sysapuestas__api\\controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A340695A-D926-4761-BB1C-AE34934C71B6}|sysApuestas__API.csproj|d:\\sys_apuestas.serviciosweb\\proyecto sistemas de apuestas\\sysapuestas__api\\controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A340695A-D926-4761-BB1C-AE34934C71B6}|sysApuestas__API.csproj|solutionrelative:controllers\\configuracioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A340695A-D926-4761-BB1C-AE34934C71B6}|sysApuestas__API.csproj|c:\\users\\genga\\desktop\\proyecto sistemas de apuestas\\sysapuestas__api\\sysapuestas__api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "AbsoluteMoniker": "D:0:0:{A340695A-D926-4761-BB1C-AE34934C71B6}|sysApuestas__API.csproj|d:\\sys_apuestas.serviciosweb\\proyecto sistemas de apuestas\\sysapuestas__api\\sysapuestas__api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{A340695A-D926-4761-BB1C-AE34934C71B6}|sysApuestas__API.csproj|solutionrelative:sysapuestas__api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ConfiguracionController.cs",
-              "DocumentMoniker": "C:\\Users\\GENGA\\Desktop\\proyecto sistemas de apuestas\\sysApuestas__API\\Controllers\\ConfiguracionController.cs",
+              "DocumentMoniker": "D:\\Sys_apuestas.serviciosWEB\\proyecto sistemas de apuestas\\sysApuestas__API\\Controllers\\ConfiguracionController.cs",
               "RelativeDocumentMoniker": "Controllers\\ConfiguracionController.cs",
-              "ToolTip": "C:\\Users\\GENGA\\Desktop\\proyecto sistemas de apuestas\\sysApuestas__API\\Controllers\\ConfiguracionController.cs",
+              "ToolTip": "D:\\Sys_apuestas.serviciosWEB\\proyecto sistemas de apuestas\\sysApuestas__API\\Controllers\\ConfiguracionController.cs",
               "RelativeToolTip": "Controllers\\ConfiguracionController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAABbAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-23T22:52:13.497Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "sysApuestas__API",
-              "DocumentMoniker": "C:\\Users\\GENGA\\Desktop\\proyecto sistemas de apuestas\\sysApuestas__API\\sysApuestas__API.csproj",
+              "DocumentMoniker": "D:\\Sys_apuestas.serviciosWEB\\proyecto sistemas de apuestas\\sysApuestas__API\\sysApuestas__API.csproj",
               "RelativeDocumentMoniker": "sysApuestas__API.csproj",
-              "ToolTip": "C:\\Users\\GENGA\\Desktop\\proyecto sistemas de apuestas\\sysApuestas__API\\sysApuestas__API.csproj",
+              "ToolTip": "D:\\Sys_apuestas.serviciosWEB\\proyecto sistemas de apuestas\\sysApuestas__API\\sysApuestas__API.csproj",
               "RelativeToolTip": "sysApuestas__API.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-23T22:52:00.35Z"
