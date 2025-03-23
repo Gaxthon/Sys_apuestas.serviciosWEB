@@ -19,7 +19,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
-    pruebacomentarioGithub;
+    prueba2comentarioGithub;
 }
 
 app.UseAuthorization();
