@@ -100,7 +100,7 @@ namespace sysApuestas__API.Controllers
             return NoContent();
         }
 
-        private bool ConfiguracionExists(int id)
+        private bool ConfiguracionExists(int id) //COMENTARIO DE EJEMPLO
         {
             return _context.configuraciones.Any(e => e.IdConfiguracion == id);
         }
