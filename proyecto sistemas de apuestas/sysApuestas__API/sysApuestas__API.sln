@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sysApuestas__API", "sysApuestas__API.csproj", "{A340695A-D926-4761-BB1C-AE34934C71B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApuestasShare", "..\ApuestasShare\ApuestasShare.csproj", "{3B5AC289-BDD9-41FD-9B76-64B830A86321}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A340695A-D926-4761-BB1C-AE34934C71B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A340695A-D926-4761-BB1C-AE34934C71B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A340695A-D926-4761-BB1C-AE34934C71B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A340695A-D926-4761-BB1C-AE34934C71B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B5AC289-BDD9-41FD-9B76-64B830A86321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B5AC289-BDD9-41FD-9B76-64B830A86321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B5AC289-BDD9-41FD-9B76-64B830A86321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B5AC289-BDD9-41FD-9B76-64B830A86321}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEE75B79-EA5C-4472-82B4-865C3E93BE50}
+	EndGlobalSection
+EndGlobal

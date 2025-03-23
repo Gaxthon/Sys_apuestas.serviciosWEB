@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\sysApuestas__API.props" />
+</Project>
