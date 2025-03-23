@@ -1,0 +1,58 @@
+# Compiled files
+bin/
+obj/
+
+# User-specific files
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+*.dll
+*.exe
+*.pdb
+*.nuget
+*.nupkg
+
+# Logs and database
+logs/
+*.log
+App_Data/
+*.mdf
+*.ldf
+
+# .NET Core dependencies
+project.lock.json
+project.assets.json
+artifacts/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Secrets and environment
+secrets.json
+.env
+
+# npm dependencies (if using frontend frameworks)
+node_modules/
+
+# Publish output
+wwwroot/
+publish/
+
+dist/
+
+# Docker
+Dockerfile
+*.dockerignore
+
+# macOS and Linux system files
+.DS_Store
+*.swp
+*.swo
