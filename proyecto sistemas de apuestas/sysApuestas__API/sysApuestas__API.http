@@ -1,6 +1,0 @@
-@sysApuestas__API_HostAddress = http://localhost:5117
-
-GET {{sysApuestas__API_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
